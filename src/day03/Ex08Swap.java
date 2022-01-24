@@ -5,7 +5,7 @@ public class Ex08Swap {
 		// int number1, number2 선언
 		int number1, number2;
 		// number1에 20 저장
-		number = 20;
+		number1 = 20;
 		// number2에 50 저장
 		number2 = 50;
 		

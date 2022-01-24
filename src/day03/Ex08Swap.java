@@ -8,7 +8,7 @@ public class Ex08Swap {
 		number1 = 20;
 		// number2에 50 저장
 		number2 = 50;
-		
+		  
 		// number1의 값을 임시로 보관할 int 변수 temp
 		int temp;
 		
